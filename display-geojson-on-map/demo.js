@@ -28,7 +28,7 @@ function showGeoJSONData (map) {
  */
 // Step 1: initialize communication with the platform
 var platform = new H.service.Platform({
-  apikey: window.apikey
+  apikey: 'XnGRU6CJSkeKEUfqh3hHgNGS9j_ny5Gmk0qqAg_xMxI'
 });
 var defaultLayers = platform.createDefaultLayers();
 
